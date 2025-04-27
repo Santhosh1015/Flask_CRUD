@@ -133,7 +133,7 @@ pip install -r requirements.txt
 python app.py
 ```
 # 🎯 Output Screen
-![HomePage]()
+![HomePage](https://github.com/Santhosh1015/Flask_CRUD/blob/Main/flaskCRUD.png?raw=true)
 
 And your project will be live at `http://127.0.0.1:5000/` 🚀
 
